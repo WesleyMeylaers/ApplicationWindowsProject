@@ -1,0 +1,8 @@
+D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.csproj.AssemblyReference.cache
+D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.csproj.SuggestedBindingRedirects.cache
+D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.csproj.CoreCompileInputs.cache
+D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\bin\Debug\ProjectWindowsWesley.exe.config
+D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\bin\Debug\ProjectWindowsWesley.exe
+D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\bin\Debug\ProjectWindowsWesley.pdb
+D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.exe
+D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.pdb
