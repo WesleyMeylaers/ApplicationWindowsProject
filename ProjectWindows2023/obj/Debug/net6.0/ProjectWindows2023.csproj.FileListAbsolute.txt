@@ -1,0 +1,15 @@
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ProjectWindows2023.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ProjectWindows2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ProjectWindows2023.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ProjectWindows2023.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ProjectWindows2023.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\bin\Debug\net6.0\ProjectWindows2023.exe
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\bin\Debug\net6.0\ProjectWindows2023.deps.json
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\bin\Debug\net6.0\ProjectWindows2023.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\bin\Debug\net6.0\ProjectWindows2023.dll
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\bin\Debug\net6.0\ProjectWindows2023.pdb
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ProjectWindows2023.dll
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\refint\ProjectWindows2023.dll
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ProjectWindows2023.pdb
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ProjectWindows2023.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\!Windows\ProjectWindows2023\obj\Debug\net6.0\ref\ProjectWindows2023.dll
