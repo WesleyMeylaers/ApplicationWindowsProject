@@ -6,3 +6,11 @@ D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\bin\Debug\ProjectWi
 D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\bin\Debug\ProjectWindowsWesley.pdb
 D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.exe
 D:\!SCHOOL\Windows\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.pdb
+C:\Users\Eigenaar\Desktop\!Windows\ApplicationWindowsProject\ProjectWindowsWesley\ProjectWindowsWesley\bin\Debug\ProjectWindowsWesley.exe.config
+C:\Users\Eigenaar\Desktop\!Windows\ApplicationWindowsProject\ProjectWindowsWesley\ProjectWindowsWesley\bin\Debug\ProjectWindowsWesley.exe
+C:\Users\Eigenaar\Desktop\!Windows\ApplicationWindowsProject\ProjectWindowsWesley\ProjectWindowsWesley\bin\Debug\ProjectWindowsWesley.pdb
+C:\Users\Eigenaar\Desktop\!Windows\ApplicationWindowsProject\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Desktop\!Windows\ApplicationWindowsProject\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eigenaar\Desktop\!Windows\ApplicationWindowsProject\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\!Windows\ApplicationWindowsProject\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.exe
+C:\Users\Eigenaar\Desktop\!Windows\ApplicationWindowsProject\ProjectWindowsWesley\ProjectWindowsWesley\obj\Debug\ProjectWindowsWesley.pdb
